@@ -1,0 +1,40 @@
+title = 'CakeMC 帮助文档'
+description = 'CakeMC 官方帮助文档'
+evergreen = true
+[locales]
+'/' = { lang = 'zh-CN', title = 'CakeMC 帮助文档' }
+
+[themeConfig]
+repo = 'cake-mc/blog'
+docsBranch = 'master'
+editLinks = true
+
+[themeConfig.locales.'/']
+editLinkText = '帮助我们完善这个页面'
+lastUpdated = '最后更新'
+
+[[themeConfig.locales.'/'.nav]]
+text = '主页'
+link = '/'
+[[themeConfig.locales.'/'.nav]]
+text = 'RTMWorld'
+link = '/rtmworld/'
+[[themeConfig.locales.'/'.nav]]
+text = 'Cake Launcher'
+link = '/cake-launcher/'
+[[themeConfig.locales.'/'.nav]]
+text = 'CakeSkin'
+link = '/cakeskin/'
+
+[themeConfig.locales.'/'.sidebar]
+'/rtmworld/' = [
+  '/rtmworld/',
+  '/rtmworld/server-type',
+  '/rtmworld/how-to-play',
+]
+'/cake-launcher/' = [
+  '/cake-launcher/',
+]
+'/cakeskin/' = [
+  '/cakeskin/',
+]

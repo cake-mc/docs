@@ -1,7 +1,7 @@
 ---
 home: true
-actionText: 现在解决问题
-actionLink: /rtmworld/
+actionText: 让我们开始吧
+actionLink: /navigate
 features:
 - title: 玩家为主
   details: 以玩家的视角进行文档的编写，从而更方便地解决问题
