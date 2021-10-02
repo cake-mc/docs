@@ -5,7 +5,7 @@ evergreen = true
 '/' = { lang = 'zh-CN', title = 'CakeMC 帮助文档' }
 
 [themeConfig]
-repo = 'cake-mc/blog'
+repo = 'cake-mc/docs'
 docsBranch = 'master'
 editLinks = true
 
