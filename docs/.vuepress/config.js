@@ -13,7 +13,8 @@ module.exports = {
     sidebar: {
         '/' : [
       "/", //指的是根目录的md文件 也就是 README.md 里面的内容
-            "main"
+            "/rtmworld/server-type",
+            "/rtmworld/how-to-play"
         ]
     },
     sidebarDepth : 2

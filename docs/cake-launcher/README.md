@@ -1,3 +1,7 @@
-## Cake Launcher
+## 前言
 
-Cake Launcher 是 CakeMC 的专属启动器，目前处于早期测试版本
+这一部分是与 Cake Launcher 有关的问题的文档
+
+这个启动器大部分功能还在开发，目前为早期测试版本
+
+现在开始寻找你的问题吧
