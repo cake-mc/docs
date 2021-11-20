@@ -7,7 +7,7 @@ evergreen = true
 [themeConfig]
 repo = 'cake-mc/docs'
 docsBranch = 'master'
-editLinks = true
+editLinks = false
 
 [themeConfig.locales.'/']
 editLinkText = '帮助我们完善这个页面'
@@ -40,6 +40,8 @@ link = '/tzmtr/'
 ]
 '/cakeskin/' = [
   '/cakeskin/',
+  '/cakeskin/about',
+  '/cakeskin/how-to-use',
 ]
 '/tzmtr/' = [
   '/tzmtr/',
