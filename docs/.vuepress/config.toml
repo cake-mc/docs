@@ -1,8 +1,6 @@
 title = 'CakeMC 帮助文档'
 description = 'CakeMC 官方帮助文档'
 evergreen = true
-[head.link]
-icon = /icon.png
 
 [locales]
 '/' = { lang = 'zh-CN', title = 'CakeMC 帮助文档' }
