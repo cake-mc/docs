@@ -7,6 +7,7 @@ evergreen = true
 [themeConfig]
 repo = 'cake-mc/docs'
 docsBranch = 'source'
+docsdir = 'docs'
 editLinks = true
 
 [themeConfig.locales.'/']
