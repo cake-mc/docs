@@ -53,12 +53,12 @@
 - **Cloudflare**：[Privacy Policy](https://www.cloudflare.com/privacypolicy/)
     - 我们使用了 Cloudflare 的域名解析（DNS）服务、内容分发网络（CDN）服务和性能分析服务（Browser Insights）；
 - **GitHub**：[隐私声明](https://docs.github.com/github/site-policy/github-privacy-statement)
-    - 我们使用了 GitHub 的代码托管（Git）服务、持续集成（CI）服务、静态网站托管服务（Pages）和 Github Development 的 OAuth 登录验证服务；
+    - 我们使用了 GitHub 的代码托管（Git）服务、持续集成（CI）服务、静态网站托管服务（Pages）和 GitHub Development 的 OAuth 登录验证服务；
 - **Google**：[隐私权和条款](https://policies.google.com/privacy)
-    - 我们使用了 Google 的数据分析服务（Analytics）、人机验证服务（reCAPTCHA）和 OAuth 登录验证服务；
+    - 我们使用了 Google 的数据分析服务（Analytics）、人机验证服务（reCAPTCHA）和广告服务（AdSense）；
 - **jsDelivr**：[Privacy Policy - cdn.jsdelivr.net](https://www.jsdelivr.com/privacy-policy-jsdelivr-net)
     - 我们使用了 jsDelivr 的内容分发网络（CDN）服务；
 - **Microsoft**：[隐私声明](https://privacy.microsoft.com/privacystatement)
-    - 我们使用了 Microsoft Azure 的内容分发网络（CDN）服务和 Active Directory 中的 OAuth 登录验证服务，还在站点运营工作中使用了 Microsoft 365（包括 Office 365 专业增强版和 Exchange Online 等）服务；
+    - 我们使用了 Microsoft Azure Active Directory 中的 OAuth 登录验证服务
 - **阿里云**: [隐私声明](https://terms.aliyun.com/legal-agreement/terms/suit_bu1_ali_cloud/suit_bu1_ali_cloud201902141711_54837.html)
     - 我们使用了 阿里云 的域名解析（DNS）服务和旗下的 阿里云企业邮箱 的邮件发送服务。

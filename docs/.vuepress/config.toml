@@ -31,18 +31,16 @@ link = '/tzmtr/'
 
 [themeConfig.locales.'/'.sidebar]
 '/rtmworld/' = [
-  '/rtmworld/',
   '/rtmworld/server-type',
   '/rtmworld/how-to-play',
 ]
-'/cake-launcher/' = [
-  '/cake-launcher/',
-]
+'/cake-launcher/' = []
+
 '/cakeskin/' = [
-  '/cakeskin/',
   '/cakeskin/about',
   '/cakeskin/how-to-use',
+  '/cakeskin/privacy',
+  '/cakeskin/tos',
 ]
-'/tzmtr/' = [
-  '/tzmtr/',
-]
+
+'/tzmtr/' = []
