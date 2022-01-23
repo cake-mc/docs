@@ -39,8 +39,8 @@ link = '/tzmtr/'
 '/cakeskin/' = [
   '/cakeskin/about',
   '/cakeskin/how-to-use',
-  '/cakeskin/privacy',
-  '/cakeskin/tos',
+  '/cakeskin/policies/privacy',
+  '/cakeskin/policies/tos',
 ]
 
 '/tzmtr/' = []
