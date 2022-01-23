@@ -6,8 +6,8 @@ evergreen = true
 
 [themeConfig]
 repo = 'cake-mc/docs'
-docsBranch = 'master'
-editLinks = false
+docsBranch = 'source'
+editLinks = true
 
 [themeConfig.locales.'/']
 editLinkText = '帮助我们完善这个页面'
