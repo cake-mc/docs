@@ -38,7 +38,7 @@
 
 ![7](/cakeskin/7.png)
 
-手动将 [API Root](https://skin.cakemc.top/api/yggdrasil) 复制到 BakaXL 内
+你需要手动将 [API Root](https://skin.cakemc.top/api/yggdrasil) 复制到 BakaXL 内
 
 ![8](/cakeskin/8.png)
 
