@@ -14,6 +14,10 @@
 
 将皮肤站仪表盘中的 [API Root](https://skin.cakemc.top/api/yggdrasil) 复制到 “验证服务器” 一栏
 
+::: tip
+上面的 API Root 是可以点的，你可以将鼠标右键 API Root 点击 复制链接地址 来复制验证服务器地址；当然，在 CakeSkin 的 验证服务器框 ，下面的 “将此按钮拖动至启动器” 按钮点一下也是可以快速复制的
+:::
+
 ![3](/cakeskin/3.png)
 
 返回主页面，登录你在皮肤站的账号即可
