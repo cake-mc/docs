@@ -18,4 +18,4 @@
 
 然后打开一个 Pull Request
 
-> [VuePress - Vue.js Powered Static Site Generator](https://vuepress.vuejs.org)
+> [VuePress - Vue.js Powered Static Site Generator](https://vuepress.vuejs.org/zh/)
