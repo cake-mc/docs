@@ -45,6 +45,7 @@ link = '/tzmtr/'
   '/cakeskin/how-to-use',
   '/cakeskin/policies/privacy',
   '/cakeskin/policies/tos',
+  '/cakeskin/policies/user-code',
 ]
 
 '/tzmtr/' = []
