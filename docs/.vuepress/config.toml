@@ -29,9 +29,6 @@ link = '/cake-launcher/'
 [[themeConfig.locales.'/'.nav]]
 text = 'CakeSkin'
 link = '/cakeskin/'
-[[themeConfig.locales.'/'.nav]]
-text = 'TZMTR'
-link = '/tzmtr/'
 
 [themeConfig.locales.'/'.sidebar]
 '/rtmworld/' = [
